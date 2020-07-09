@@ -1,4 +1,4 @@
-package com.subaru.tele.cloud.api;
+package com.helloworld.airportbaggage;
 
 class A {
 	static {

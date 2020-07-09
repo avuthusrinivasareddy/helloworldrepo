@@ -1,4 +1,4 @@
-package com.subaru.micro.mysubaru.myspoi;
+package com.helloworld.airportbaggage;
 
 public class Test2 {
 
